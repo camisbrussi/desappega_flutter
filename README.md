@@ -1,16 +1,13 @@
-# desappega
+# DesAPPega
 
-A new Flutter application.
+Final project carried out for the PROGRAMMING FOR MOBILE DEVICES discipline.
 
-## Getting Started
+Project objectives
+- You must create a name for the product;
+- Develop a flyer;
+- Choose / Develop an icon for the application;
+- Develop the APP;
+- At the end of the course, present the application.
 
-This project is a starting point for a Flutter application.
+[DESSAPEGA_FLYER.pdf](https://github.com/camisbrussi/desappega_flutter/files/5832899/DESSAPEGA.3.pdf)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
